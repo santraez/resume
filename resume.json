@@ -1,0 +1,198 @@
+{
+  "basics": {
+    "name": "Santiago Ramos",
+    "label": "Full-stack web developer crafting user-friendly products with close attention to detail.",
+    "image": "/assets/me.png",
+    "email": "santraez@gmail.com",
+    "url": "https://santraez.com",
+    "download": "/assets/Santiago_Ramos-developer-resume.pdf",
+    "summary": "I'm from Ilo, a small port town in southern Perú, and I share my home with my 7 cats. I work as a full-stack web developer, crafting high-performance and efficient custom products. I'm always learning and keeping my skills up to date, exploring new ways to create software. I love coming up with ideas to solve problems and actively sharing my experience.\n I've worked solo, developing web applications from the ground up, and as part of development teams for innovative companies in different industries. When I'm not working, I enjoy creating useful and unique apps that are free for everyone. I'm also a huge animal lover and support efforts to prevent pet abandonment in my community.",
+    "location": {
+      "city": "Ilo",
+      "country": "Perú",
+      "timezone": "UTC-5",
+      "maps": "https://www.google.com/maps/place/Ilo/@-17.6684255,-71.3789423,13z/data=!3m1!4b1!4m6!3m5!1s0x91445b07eeb2462b:0xf91ceb9b25c28cf5!8m2!3d-17.6421123!4d-71.3385505!16zL20vMDZrZmpn?entry=ttu"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "santraez",
+        "url": "https://github.com/"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "santraez",
+        "url": "https://linkedin.com/in/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Since Global",
+      "position": "Full-stack Developer",
+      "remote": true,
+      "url": "https://since.global",
+      "startYear": "2023",
+      "summary": "Implemented new features, contributed to the development of the company's flagship product, and led the development of the sales module. Technologies used: TypeScript, Next.js, MongoDB."
+    },
+    {
+      "name": "Workana",
+      "position": "Freelancer Developer",
+      "remote": true,
+      "url": "#",
+      "startYear": "2022",
+      "endYear": "2023",
+      "summary": "Completed multiple client projects with top ratings, ranking 5th among Freelancers in my country. Skilled in backend and frontend development using JavaScript, React, Node, MySQL."
+    },
+    {
+      "name": "JavaScript Developer",
+      "position": "Self-employed",
+      "remote": true,
+      "url": "#",
+      "startYear": "2021",
+      "endYear": "2022",
+      "summary": "Developed SPA pages using the MERN Stack, focusing on user interface development and constructing a REST API. Additionally, I implemented data and session validation using JWT."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Privada de Tacna",
+      "url": "https://www.upt.edu.pe",
+      "area": "Medicine",
+      "studyType": "Bachelor's Degree",
+      "startYear": "2015",
+      "endYear": "2022"
+    },
+    {
+      "institution": "ONE - Alura",
+      "url": "https://app.aluracursos.com/program/certificate/2f9ee185-6b9b-4ea5-837c-26ce5a36cbdd",
+      "area": "Computer Software Engineering",
+      "studyType": "Oracle Next Education F2 T4 Back-end",
+      "startYear": "2022",
+      "endYear": "2023"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Next.js: The React framework for production - Udemy",
+      "date": "2024-05-17",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-3099ffaa-9c10-4075-8114-7b3c86fc2011/"
+    },
+    {
+      "name": "UI Design: Visual Design and Interface Design with Figma - Udemy",
+      "date": "2024-05-17",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-adb0dd35-f79b-4e17-9153-8b00c7f0cf60/"
+    },
+    {
+      "name": "3D development with Next.js and Typescript - Udemy",
+      "date": "2024-02-26",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-0407b9c5-2f85-403c-a968-5e5d4c62bbde/"
+    },
+    {
+      "name": "Python and Data Science training at OCI - ONE",
+      "date": "2023-10-04",
+      "issuer": "Alura Latam",
+      "url": "https://app.aluracursos.com/degree/certificate/01aef975-952f-4668-8616-06b84c7588df"
+    },
+    {
+      "name": "Updated TypeScript: Ultimate Guide - Udemy",
+      "date": "2023-07-05",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-e3d6dd15-41d8-49b2-8df5-9db135da315a/"
+    },
+    {
+      "name": "Object Oriented Java Training G4 - ONE",
+      "date": "2023-03-08",
+      "issuer": "Alura Latam",
+      "url": "https://app.aluracursos.com/degree/certificate/4b40b5e2-6e2f-4653-9434-46d5c58bbdba"
+    },
+    {
+      "name": "Git and GitHub: Control and share your code - ONE",
+      "date": "2023-01-03",
+      "issuer": "Alura Latam",
+      "url": "https://app.aluracursos.com/certificate/d697c063-bc81-49ba-925d-bc0fa56de2f6"
+    },
+    {
+      "name": "Master in React: Hooks, MERN, NodeJS, JWT - Udemy",
+      "date": "2022-08-15",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-3d46dba6-4663-48a9-b0e7-6c6f31f955d0/"
+    },
+    {
+      "name": "Complete Web Development: HTML, CSS, JS, AJAX and MySQL - Udemy",
+      "date": "2021-11-24",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-c01c20a7-3232-4fbe-b674-4e23c1eace51/"
+    }
+  ],
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "Node",
+    "React",
+    "ReactNative",
+    "Electron",
+    "Next",
+    "Astro",
+    "Redux",
+    "TailwindCSS",
+    "Git",
+    "Docker",
+    "Linux",
+    "MongoDB",
+    "MySQL",
+    "Figma"
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "French",
+      "fluency": "Beginner"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Random",
+      "releaseDate": "2023",
+      "description": "Web Application for easy choices, sorting, grouping, and assigning tasks randomly.",
+      "url": "https://random.ccc.zone/",
+      "repository": "https://github.com/santraez/random",
+      "isActive": true,
+      "keywords": [
+        "Express",
+        "JavaScript",
+        "MongoDB",
+        "React",
+        "Turborepo"
+      ]
+    },
+    {
+      "name": "Ten",
+      "releaseDate": "2023",
+      "description": "Transfers text/links between devices via unique 3-word key, accessible for 10 minutes.",
+      "url": "https://ten.ccc.zone/",
+      "repository": "https://github.com/santraez/ten",
+      "isActive": true,
+      "keywords": [
+        "Express",
+        "JavaScript",
+        "MongoDB",
+        "React",
+        "Turborepo"
+      ]
+    }
+  ]
+}
