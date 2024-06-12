@@ -38,7 +38,12 @@ const SOCIAL_ICONS: SocialIcon = {
           {resume?.basics.location.city}, {resume?.basics.location.country} ({resume?.basics.location.timezone})
         </a>
       </p>
-      <div class='w-full workana print:pt-3.5 print:-mx-[11px] h-auto print:h-[58px] flex flex-row print:flex-wrap justify-start items-center gap-x-1.5 print:gap-0.5 pt-1'>
+      <div class='w-full relative print:pt-3.5 print:-mx-[11px] h-auto print:h-[58px] flex flex-row print:flex-wrap justify-start items-center gap-x-1.5 print:gap-0.5 pt-1'>
+        <img
+        class="workana"
+          draggable={false}
+          src='./assets/workana.png'
+        />
         <HeroButton
           title='Email'
           url={`mailto:${resume?.basics.email}`}
@@ -93,25 +98,14 @@ const SOCIAL_ICONS: SocialIcon = {
 </script>
 
 <style>
-/* crear un pseudoelemento usando una imagen */
-.workana {
-  position: relative;
-}
-
-.workana::before {
-  content: '';
-  position: absolute;
-  z-index: 999;
-  top: 20px;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: url('./assets/workana.png');
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  transform: rotate(8deg);
-  scale: 3.5;
-  opacity: 1;
-}
+  .workana {
+    position: absolute;
+    z-index: 999;
+    top: 20px;
+    left: 220px;
+    width: auto;
+    height: 100%;
+    transform: rotate(8deg);
+    scale: 3.5;
+  }
 </style>
